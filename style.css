@@ -1,8 +1,63 @@
-@import "home.scss";
+
+h1 {
+  color:red;
+  font-size:33px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*@import "home.scss";
 body{
   margin:0;
   color:#444;
-  background:#ecf0f1;
+  background:blue;
   font:300 18px/18px Roboto, sans-serif;
 }
 *,:after,:before{box-sizing:border-box}
@@ -141,7 +196,7 @@ body{
 .spooky-castle .window.main .arrow:nth-child(2){left:11px}
 .spooky-castle .window.main .arrow:nth-child(3){left:17px}
 
-/* Animation */
+
 .spooky-castle .circle{animation:6s spooky linear infinite}
 @keyframes spooky{
   0%,86%,100%{opacity:1;transform:scale3d(.05,.05,.05)}
@@ -240,11 +295,5 @@ body{
   82%{transform:translate3d(0,0,0)}
 }
 
-
-
-
-
-
-
-
+*/
 
